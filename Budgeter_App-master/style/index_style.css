@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 24, 2018, 4:56:16 PM
+    Author     : Fred Dilapisho
+*/
+#banner {
+    background: #5191f7;
+    height: auto;
+    padding: 100px 100px
+}
+h1 {
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+a#download {
+    display: block;
+    text-align: center;
+    width: 150px;
+    margin: 0px auto;
+    padding: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-family: Arial;
+    border: 1px solid #fff;
+    text-decoration: none;
+    border-radius: 10px;
+}
